@@ -2,7 +2,7 @@
 
 ## About  
 I lead the AI Frameworks Partner Engineering team at Meta, focused on the ecosystem of PyTorch and Llama models.  
-My work spans large‑scale model training, distributed systems, inference optimization, and driving strategy and ecosystem development in the AI community..
+My work spans large‑scale model training, distributed systems, inference optimization, driving strategy and ecosystem development in the AI community..
 
 ---
 
