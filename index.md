@@ -1,12 +1,13 @@
 ---
 title: "Hamid Shojanazeri — Recent Work"
-description: "Recent blog posts, talks, and open source work by Hamid Shojanazeri, engineering leader in PyTorch and distributed AI at Meta"
+description: "Recent blog posts, talks, and open source work by Hamid Shojanazeri, engineering leader in PyTorch and distributed AI at Meta."
 author: Hamid Shojanazeri
 layout: default
 ---
 
 
 # Hamid Shojanazeri — Recent Work  
+
 
 ## About  
 I lead the AI Frameworks Partner Engineering team at Meta, focused on the ecosystem of PyTorch and Llama models.  
