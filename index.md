@@ -1,6 +1,6 @@
 ---
 title: "Hamid Shojanazeri — Recent Work"
-description: "Recent blog posts, talks, and open source work by Hamid Shojanazeri, engineering leader in PyTorch and distributed AI at Meta."
+description: "Recent blog posts, talks, and open source work by Hamid Shojanazeri, engineering leader in PyTorch and distributed AI at Meta"
 author: Hamid Shojanazeri
 layout: default
 ---
